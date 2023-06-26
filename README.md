@@ -60,9 +60,7 @@ Feel free to explore the code and make any necessary modifications to suit your 
 This project is licensed under the [MIT License](LICENSE).
 
 
-## Running the Application
-
-Once the application is running, a web interface will be displayed with a text input field labeled "Plug in your prompt here". Enter your desired prompt in this field.
+## Key Components 
 
 The application uses prompt templates to generate video titles and scripts. The following templates are defined:
 - `title_template`: Generates a YouTube video title based on the provided topic.
